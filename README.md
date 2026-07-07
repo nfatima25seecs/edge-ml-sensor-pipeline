@@ -1,6 +1,6 @@
 # Edge-ML Sensor Pipeline (ML-first, no hardware)
 
-A beginner-friendly TinyML-style project where I train a lightweight activity classifier in Python and (next) port inference logic to C++ for edge-style execution.
+A TinyML-style activity classifier: lightweight neural network trained in Python, with inference re-implemented in plain C++ for edge-style execution under tight memory constraints.
 
 ## Current Status
  Phase 1 complete:
